@@ -2,7 +2,10 @@
 
 ### Objective 
 
-> 프로젝트 템플릿 리파짓토리로, 프로젝트 폴더을 보다 간단히 진행하도록 도와줍니다.
+의존성 관리와 프로젝트 구조에 대해 좀 더 원활하게 진행하기 위해 만들어둔 템플릿 리파짓토리 입니다. 
+
+* Project Structure
+* Dependency Management
 
 ### How To SetUp
 
